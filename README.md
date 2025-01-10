@@ -52,7 +52,13 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 ---
 
 ## Demostração da interface e código
-
+<div style="width:100%; overflow:hidden; max-width:600px;">
+  <div style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://i.postimg.cc/d1Sb7VJk/tabela.png" alt="Imagem 1" style="width:100%; flex-shrink: 0; border: 5px solid black;">
+    <img src="https://i.postimg.cc/y6DdLJgG/codigo1.png" alt="Imagem 2" style="width:100%; flex-shrink: 0; border: 5px solid black;">
+    <img src="https://i.postimg.cc/h4NG6SVt/codigo2.png" alt="Imagem 3" style="width:100%; flex-shrink: 0; border: 5px solid black;">
+  </div>
+</div>
 
 
 
